@@ -1,0 +1,8 @@
+﻿.gridStyle {
+    width: 1000px;
+    height: 350px;
+}
+
+.cellStyle {
+    border: 1px solid rgb(200, 200, 200);
+}
